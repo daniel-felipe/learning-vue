@@ -1,6 +1,6 @@
 import AppButton from './AppButton.js';
 
-export default  {
+export default {
     components: {
         'app-button': AppButton
     }
